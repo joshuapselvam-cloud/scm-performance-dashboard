@@ -1,0 +1,11 @@
+Date,Product_ID,Product,Region,Units_Sold,Price,Inventory_Level,Lead_Time_Days
+01-01-2024,P001,Shoes,South,120,2000,500,7
+02-01-2024,P001,Shoes,South,140,2000,480,7
+03-01-2024,P001,Shoes,South,130,2000,460,7
+04-01-2024,P002,Tshirts,West,200,800,600,5
+05-01-2024,P002,Tshirts,West,210,800,580,5
+06-01-2024,P003,Jeans,North,90,1500,300,6
+07-01-2024,P003,Jeans,North,100,1500,280,6
+08-01-2024,P001,Shoes,South,150,2000,450,7
+09-01-2024,P002,Tshirts,West,220,800,560,5
+10-01-2024,P003,Jeans,North,110,1500,260,6
